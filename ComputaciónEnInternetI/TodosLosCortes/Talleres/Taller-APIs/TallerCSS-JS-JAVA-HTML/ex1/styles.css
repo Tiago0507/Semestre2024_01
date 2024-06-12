@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#weather {
+    margin-top: 20px;
+}
+
+button {
+    margin-top: 10px;
+}
+
+.city-input {
+    margin-top: 10px;
+}
+
+.language-input {
+    margin-top: 10px;
+}
+
+.select-unity {
+    margin-top: 10px;
+}
